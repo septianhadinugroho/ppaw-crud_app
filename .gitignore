@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# File konfigurasi sistem
+.DS_Store
+Thumbs.db
+
+# File konfigurasi IDE/editor
+.vscode/
+.idea/
+*.swp
+
+# Environment file
+.env
+
+# File log
+*.log
+
+# NPM logs
+npm-debug.log*
+
+# Temporary files
+tmp/
+*.bak
